@@ -2,23 +2,30 @@
 
 <h3 align="center">
 B.Tech Computer Science Engineering Student <br>
-Java • Spring Boot • Python • AI & Machine Learning Enthusiast
+Java • Spring Boot • Python • AI & Machine Learning
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saniya331&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/saniya331">
+    <img src="https://komarev.com/ghpvc/?username=saniya331&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 💻 Passionate about Full Stack Development
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🌱 Currently learning Spring Boot, React & REST APIs
-- 🚀 Building AI-powered Web Applications
-- 💼 Looking for Software Engineer Internship Opportunities
+🎓 B.Tech Computer Science Engineering Student
+
+💻 Passionate about Full Stack Development
+
+🤖 Interested in Artificial Intelligence & Machine Learning
+
+🌱 Currently learning Spring Boot, React & REST APIs
+
+🚀 Building AI-powered Web Applications
+
+💼 Looking for Software Engineer Internship Opportunities
 
 ---
 
@@ -33,11 +40,9 @@ Java • Spring Boot • Python • AI & Machine Learning Enthusiast
 # 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=saniya331&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=saniya331&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -45,9 +50,7 @@ Java • Spring Boot • Python • AI & Machine Learning Enthusiast
 # 💻 Most Used Languages
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniya331&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -55,9 +58,7 @@ Java • Spring Boot • Python • AI & Machine Learning Enthusiast
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saniya331&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -65,9 +66,7 @@ Java • Spring Boot • Python • AI & Machine Learning Enthusiast
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=saniya331&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
 </p>
 
 ---
@@ -75,16 +74,65 @@ Java • Spring Boot • Python • AI & Machine Learning Enthusiast
 # 🚀 Featured Projects
 
 ### 🤖 AI Job Portal
-AI-powered Job Portal with Resume Matching, Skill Gap Analysis and Spring Boot Backend.
+> AI-powered job portal built with **Spring Boot, React, MySQL, JWT Authentication, and Gemini AI**.
+
+🔗 **Repository:**  
+https://github.com/saniya331/ai-job-portal
+
+---
 
 ### 🎤 AI Interview Assistant
-AI-powered mock interview platform with Gemini AI feedback.
+> Resume-based AI mock interview platform with automated feedback using **Gemini AI**.
+
+🔗 **Repository:**  
+https://github.com/saniya331/AI-Interview-Assistant
+
+---
 
 ### 🏦 Loan Approval Prediction
-Machine Learning web application for predicting loan eligibility.
+> Machine learning web application for predicting loan eligibility using **Flask and Scikit-learn**.
+
+🔗 **Repository:**  
+https://github.com/saniya331/loan-approval-prediction
+
+---
 
 ### 🌐 Student Portfolio
-Personal portfolio website showcasing projects, skills and achievements.
+> Personal portfolio website showcasing projects, skills, and achievements.
+
+🔗 **Live Demo:**  
+https://saniya-portfolio-wslw.onrender.com
+
+🔗 **Repository:**  
+https://github.com/saniya331/saniya-portfolio
+
+---
+
+# ☕ Currently Working On
+
+- 🚀 AI Job Portal
+- 🤖 AI Interview Assistant
+- 📚 Learning Spring Boot & React
+- 💡 Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build 5+ Full Stack Projects
+- ✅ Learn Advanced Spring Boot
+- ✅ Learn React
+- ✅ Reach 300+ GitHub Contributions
+- ✅ Contribute to Open Source
+- ✅ Crack a Software Engineer Internship
+
+---
+
+# 🏅 Certifications
+
+- Oracle Certified Foundations Associate
+- Capgemini Placement Readiness Program
+- HACK ARENA National Hackathon (Level 2)
 
 ---
 
@@ -104,8 +152,12 @@ Personal portfolio website showcasing projects, skills and achievements.
 <img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
 </a>
 
+<a href="https://saniya-portfolio-wslw.onrender.com">
+<img src="https://img.icons8.com/color/48/domain.png" height="45"/>
+</a>
+
 </p>
 
 ---
 
-⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
