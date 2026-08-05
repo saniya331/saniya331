@@ -131,8 +131,8 @@ https://github.com/saniya331/saniya-portfolio
 # 🏅 Certifications
 
 - Oracle Certified Foundations Associate
-- Capgemini Placement Readiness Program
-- HACK ARENA National Hackathon (Level 2)
+- HACK ARENA – National Hackathon
+- HackerRank SQL (Basic) Certification
 
 ---
 
