@@ -13,19 +13,13 @@ Java • Spring Boot • Python • AI & Machine Learning
 
 ---
 
-# 👩‍💻 About Me
-
-🎓 B.Tech Computer Science Engineering Student
-
-💻 Passionate about Full Stack Development
-
-🤖 Interested in Artificial Intelligence & Machine Learning
-
-🌱 Currently learning Spring Boot, React & REST APIs
-
-🚀 Building AI-powered Web Applications
-
-💼 Looking for Software Engineer Internship Opportunities
+👩‍💻 About Me
+🎓 B.Tech CSE Student | Aspiring Software Engineer
+💻 Full-Stack Developer focused on Java, Spring Boot, Python & React
+🤖 Building AI-powered applications with Gemini AI & Machine Learning
+🔐 Experienced in REST APIs, JWT Authentication & Role-Based Access Control
+🚀 Interested in Backend Development, AI & scalable web applications
+💼 Open to Software Development & Internship Opportunities
 
 ---
 
