@@ -14,17 +14,13 @@ Java • Spring Boot • Python • AI & Machine Learning
 ---
 
 #👩‍💻 About Me
-🎓 B.Tech CSE Student | Aspiring Software Engineer
 
-💻 Full-Stack Developer focused on Java, Spring Boot, Python & React
-
-🤖 Building AI-powered applications with Gemini AI & Machine Learning
-
-🔐 Experienced in REST APIs, JWT Authentication & Role-Based Access Control
-
-🚀 Interested in Backend Development, AI & scalable web applications
-
-💼 Open to Software Development & Internship Opportunities
+-🎓 B.Tech CSE Student | Aspiring Software Engineer
+-💻 Full-Stack Developer focused on Java, Spring Boot, Python & React
+-🤖 Building AI-powered applications with Gemini AI & Machine Learning
+-🔐 Experienced in REST APIs, JWT Authentication & Role-Based Access Control
+-🚀 Interested in Backend Development, AI & scalable web applications
+-💼 Open to Software Development & Internship Opportunities
 
 ---
 
@@ -115,16 +111,15 @@ https://github.com/saniya331/saniya-portfolio
 - 💡 Data Structures & Algorithms
 
 ---
-
 # 🎯 2026 Goals
 
-- ✅ Build 5+ Full Stack Projects
-- ✅ Learn Advanced Spring Boot
-- ✅ Learn React
-- ✅ Reach 300+ GitHub Contributions
-- ✅ Contribute to Open Source
-- ✅ Crack a Software Engineer Internship
-
+- 🚀 Build and deploy real-world full-stack applications
+- 🤖 Develop AI-powered applications
+- 💻 Strengthen Java, Spring Boot & React skills
+- 🧠 Improve DSA and problem-solving skills
+- 🌐 Contribute to open-source projects
+- 📚 Learn cloud and deployment technologies
+- 🎯 Secure a Software Engineer Internship
 ---
 
 # 🏅 Certifications
