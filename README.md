@@ -32,40 +32,6 @@ Java • Spring Boot • Python • AI & Machine Learning
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saniya331&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://streak-stats.demolab.com?user=saniya331&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniya331&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saniya331&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saniya331&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ### 🤖 AI Job Portal
