@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saniya Begum</h1>
 
 <h3 align="center">
-B.Tech Computer Science Engineering Student <br>
+B.Tech Computer Science & Engineering Student <br>
 Java • Spring Boot • Python • AI & Machine Learning
 </h3>
 
@@ -12,7 +12,6 @@ Java • Spring Boot • Python • AI & Machine Learning
 </p>
 
 ---
-
 # 👩‍💻 About Me
 
 - 🎓 B.Tech CSE Student | Aspiring Software Engineer
@@ -127,3 +126,4 @@ https://github.com/saniya331/saniya-portfolio
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
