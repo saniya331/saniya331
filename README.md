@@ -74,7 +74,8 @@ https://github.com/saniya331/saniya-portfolio
 
 # ☕ Currently Working On
 
-- 🚀 AI Job Portal
+- 🚀 Smart Public Complaint and Grievance management system
+- 🌐 AI Job Portal
 - 🤖 AI Interview Assistant
 - 📚 Learning Spring Boot & React
 - 💡 Data Structures & Algorithms
